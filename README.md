@@ -5,3 +5,5 @@ Fork of official Dracula VSCode theme with changes to suit my DE:
 - Strings are now Dracula green (#50fa7b)
 - Comments are now italicised
 - Few other colour tweaks
+
+Just copy contents of json into **~/.vscode/extensions/dracula-theme.theme-dracula-#.##.#/theme/dracula.json** and relaunch VSCode.
