@@ -1,2 +1,7 @@
 # vscode-dracula-theme
-Fork of official Dracula VSCode theme with editor &amp; terminal darker, italicised comments, string colour change and other colour changes to fit my DE.
+Fork of official Dracula VSCode theme with changes to suit my DE:
+
+- Darker color from Dracula palette (#1e1f29) for editor, terminal, sidebar and tabs
+- Strings are now Dracula green (#50fa7b)
+- Comments are now italicised
+- Few other colour tweaks
